@@ -1,6 +1,6 @@
 ## Todo List App
-#In this project, I made a Todo list app using technologies like Html, CSS, Javascript.
-#Todo lists are the work that you have to do or you want to do. And, the to-do list app is the place where you can keep your to-do lists. You can find this type of application on any type of mobile device.
+**In this project, I made a Todo list app using technologies like Html, CSS, Javascript.
+**Todo lists are the work that you have to do or you want to do. And, the to-do list app is the place where you can keep your to-do lists. You can find this type of application on any type of mobile device.
 
 
 #Final view of my Todo list app looks like this->
